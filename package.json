@@ -1,0 +1,22 @@
+{
+  "name": "ಠ_ಠ",
+  "version": "0.0.0",
+  "description": "ಠ_ಠ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dfellis/-_-"
+  },
+  "keywords": [
+    "ಠ_ಠ"
+  ],
+  "author": "David Ellis <d.f.ellis@ieee.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfellis/-_-/issues"
+  },
+  "homepage": "https://github.com/dfellis/-_-"
+}
